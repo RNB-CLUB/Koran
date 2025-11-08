@@ -20,14 +20,12 @@ body img{
     height: auto;
     margin-top: 20px;
 }
-body ul li{
-    margin: 10px 0;
-    font-size: 1.2em;
-    font-weight: 800;
-}
 body ul{
     list-style: none;
     background-color: black;
     width: 300px;
     height: auto;
+    margin: 10px 0;
+    font-size: 1.2em;
+    font-weight: 800;
 }
